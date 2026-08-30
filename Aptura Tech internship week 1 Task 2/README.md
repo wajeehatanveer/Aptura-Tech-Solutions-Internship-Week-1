@@ -1,4 +1,3 @@
-````markdown
 # 🎯 Number Guessing Game
 
 ## Aptura Tech Solution – Python Internship
@@ -143,5 +142,3 @@ The project provides a simple and engaging user experience while following a cle
 **Batch:** Batch 3
 **Week:** Week 1
 **Task:** Task 2 – Number Guessing Game
-
-```
