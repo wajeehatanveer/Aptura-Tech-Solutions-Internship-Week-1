@@ -1,5 +1,7 @@
-# Python Internship — Week 1
-# Task 1: 🎓 Student Record System
+## Aptura Tech Solution – Python Internship
+### Week 1 – Task 1
+
+## 🎓 Student Record System
 
 A Python-based Student Record System built with **Streamlit**.  
 The application provides a simple and user-friendly interface to manage student records efficiently.
