@@ -46,8 +46,6 @@ The application generates a random number between 1 and 100 and provides hints t
 
 ---
 
-Haan 👍 **Week 1 ke main README mein Run instructions bhi add kar dete hain.** Ye section `Deliverables` se pehle add karo:
-
 ````markdown
 ## ▶️ How to Run
 
