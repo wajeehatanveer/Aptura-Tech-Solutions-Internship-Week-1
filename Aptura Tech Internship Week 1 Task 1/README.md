@@ -97,6 +97,6 @@ Screenshots demonstrating the application's functionality are available in the `
 
 ## 🎯 Internship Task
 
-**Python Internship — Week 1**
+**Aptura TEch Solutions Internship — Week 1**
 **Task 1: Student Record System**
 
